@@ -1,15 +1,13 @@
 {
-  "name": "di-ts",
+  "name": "test-project-try2",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
+  "description": "version with di",
+  "main": "src/index.ts",
   "scripts": {
     "start": "ts-node src/index.ts"
   },
-  "author": "",
+  "author": "Nikita Danilevskii <nikita.danilevskij@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-  },
   "devDependencies": {
     "@types/express": "^4.17.9",
     "@types/express-handlebars": "^3.1.0",
